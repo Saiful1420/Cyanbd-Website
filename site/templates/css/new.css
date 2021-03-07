@@ -1,0 +1,12 @@
+.intro-content-logo {
+	display: block;
+	margin: 130px 230px!important;
+    width: 450px!important;
+}
+@media (max-width: 400px) {
+	.intro-content-logo {
+		display: block;
+		margin: 0px auto!important; 
+		width: auto!important
+	}
+}
